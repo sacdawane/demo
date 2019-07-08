@@ -4,4 +4,4 @@ This is a simple readme file.
 This line is to test after commit functionality
 
 ## Added branch
-This is branch text
+This is branch text, again on branch
